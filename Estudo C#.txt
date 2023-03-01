@@ -1,5 +1,6 @@
 Site 
 https://www.w3schools.com/cs/cs_syntax.php
+https://www.w3schools.com/cs/exercise.php?filename=exercise_variables1
 
 using System;
 
