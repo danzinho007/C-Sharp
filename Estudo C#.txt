@@ -1,3 +1,53 @@
+
+Aula 01 e 02 = OK 
+https://www.youtube.com/watch?v=25gWhVRRYDI&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=130
+Parei aqui :
+https://www.w3schools.com/cs/cs_variables_constants.php
+https://www.w3schools.com/cs/trycs.php?filename=demo_variables_int
+https://www.w3schools.com/cs/exercise.php?filename=exercise_data_types4
+Parei aqui :
+https://www.w3schools.com/cs/cs_data_types.php
+https://www.w3schools.com/cs/exercise.php?filename=exercise_data_types4
+Parei :
+https://www.w3schools.com/cs/cs_user_input.php
+https://www.w3schools.com/cs/exercise.php?filename=exercise_user_input1
+
+Parei :
+https://www.w3schools.com/cs/cs_math.php
+https://www.w3schools.com/cs/exercise.php?filename=exercise_math2
+
+Erros :
+https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/compiler-messages/cs0001
+
+Booleanos
+https://www.w3schools.com/cs/cs_booleans.php
+https://www.w3schools.com/cs/exercise.php?filename=exercise_booleans1
+
+Continuar
+https://www.w3schools.com/cs/cs_while_loop.php
+https://www.w3schools.com/cs/exercise.php?filename=exercise_while_loop1
+
+Continuar 
+https://www.w3schools.com/cs/cs_break.php
+https://www.w3schools.com/cs/exercise.php?filename=exercise_arrays1
+
+Continuar
+https://www.w3schools.com/cs/cs_arrays_loop.php
+https://www.w3schools.com/cs/exercise.php?filename=exercise_arrays4
+
+Continuar
+https://www.w3schools.com/cs/cs_methods.php
+https://www.w3schools.com/cs/exercise.php?filename=exercise_methods1
+
+Materiais :
+
+Baixar  Visual Studio Code 
+        Dot Net Core 2.2
+         Dev Pack 4.8
+
+Instalar : Runtime > DotNet Core sdk > Dev Pack 
+Extensão : C# 
+
 Site 
 https://www.w3schools.com/cs/cs_syntax.php
 https://www.w3schools.com/cs/exercise.php?filename=exercise_variables1
