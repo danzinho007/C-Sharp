@@ -39,6 +39,13 @@ Continuar
 https://www.w3schools.com/cs/cs_methods.php
 https://www.w3schools.com/cs/exercise.php?filename=exercise_methods1
 
+Continuar
+https://www.w3schools.com/cs/cs_method_parameters_named_args.php
+https://www.w3schools.com/cs/exercise.php?filename=exercise_classes2
+
+Herança
+https://www.w3schools.com/cs/cs_inheritance.php
+
 Materiais :
 
 Baixar  Visual Studio Code 
